@@ -29,6 +29,7 @@ public class testXMLfile {
 		String xmlurl = document.selectSingleNode("//properties/xmlurl").getText();
 
 		System.out.println(xmlurl);
+		System.out.println(xmlurl);
 	}
 
 }
